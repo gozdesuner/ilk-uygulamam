@@ -18,10 +18,7 @@ namespace PatikaBootcamp
         }
     }
 }
-
-
-
-```csharp
+```
 
 
 
