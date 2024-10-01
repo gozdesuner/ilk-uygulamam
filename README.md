@@ -1,9 +1,4 @@
-csharp 
-Console.WriteLine("Hello World");
-csharp 
-Console.WriteLine("Hello World");
-csharp 
-Console.WriteLine("Hello World");
+
 
 using System;
 namespace PatikaBootcamp
@@ -24,12 +19,7 @@ namespace PatikaBootcamp
     }
 }
 
-csharp 
-Console.WriteLine("Hello World");
-csharp 
-Console.WriteLine("Hello World");
-csharp 
-Console.WriteLine("Hello World");
+
 
 
 
